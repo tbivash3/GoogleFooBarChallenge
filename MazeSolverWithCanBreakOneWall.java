@@ -1,3 +1,7 @@
+/*
+* Given a maze, find the shortest way from top left to bottom right
+* Given you can break a wall on the way
+* */
 package GoogleFooBar;
 
 import java.util.LinkedList;
